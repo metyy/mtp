@@ -1,7 +1,9 @@
 #!/bin/perl
-print "hi !" x 10
+print "hi !" x 10;
 
-$isim = "ahmet"
+$isim = "ahmet";
 @tamisim = ("Ahmet","lasdsa","qwdsad");
-print @tamisim:0:5;
-
+print '\n';
+print 1..100;
+print '\n';
+print $tamisim[1];
